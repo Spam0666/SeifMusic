@@ -1,6 +1,6 @@
-token=NTIzMTg5MjczNjU5MTc5MDUy.DvV56Q.wc0w0WUtlOF9_ww44GhfQrMmPKU
-owner=454457140220919818
-prefix=D
-game=#solo_for_ever.
+token=NTM5NDQyMjc5MTc4NDM2NjE4.DzCaeA.mFen896cBBgvMwPrMyyhg5J-zWk
+owner=397529563032190986
+prefix=S
+game=DexteR , Fuck Off .
 stayinchannel=true
 songinstatus=False
