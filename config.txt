@@ -1,6 +1,6 @@
 token=NTM5NDQyMjc5MTc4NDM2NjE4.DzCaeA.mFen896cBBgvMwPrMyyhg5J-zWk
 owner=397529563032190986
-prefix=S
+prefix=E
 game=DexteR , Fuck Off .
 stayinchannel=true
 songinstatus=False
